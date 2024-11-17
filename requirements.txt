@@ -1,0 +1,4 @@
+torch==2.1.2
+numpy<2
+fastapi==0.11
+uvicorn==0.30
